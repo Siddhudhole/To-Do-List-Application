@@ -77,6 +77,7 @@ if __name__ == "__main__":
         print("1. Add Task")
         print("2. List Task") 
         print("3. Remove Task")
+        print("4. Exit") 
 
 
         choice = int(input("Enter Number :"))
@@ -88,4 +89,8 @@ if __name__ == "__main__":
 
         elif choice == 3 :
             object.remove_task()
+        elif choice == 4 :
+            break 
+
+
  
