@@ -6,7 +6,7 @@ Python app for adding, completing, and removing tasks.
 ## Steps :
 
 ### 1) Clone Repository 
-        git clone http://github.com/ 
+        git clone https://github.com/Lavanaya52646/To-Do-List-Application 
 
 ### 2) Create a virtual environment 
         conda create venv python==3.8 -y  
