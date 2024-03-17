@@ -18,5 +18,5 @@ Python app for adding, completing, and removing tasks.
         pip install -r requirements.txt
         
  ### 5) Run this command 
-        python app.py 
+        python main.py 
 
